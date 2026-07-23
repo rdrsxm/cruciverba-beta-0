@@ -1,12 +1,3 @@
 [
-  {
-    "id": "fd80c048-d7e1-4649-8b4f-e2c7c703a062",
-    "title": "Cruciverba 1",
-    "url": "puzzles/puzzle_1.json"
-  },
-  {
-    "id": "5ecb18d0-a3ad-4f58-80d0-65b1a2ad211d",
-    "title": "Cruciverba 2",
-    "url": "puzzles/puzzle_2.json"
-  }
+  
 ]
